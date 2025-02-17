@@ -1,1 +1,1 @@
-("12")
+Console.WriteLine("123")
